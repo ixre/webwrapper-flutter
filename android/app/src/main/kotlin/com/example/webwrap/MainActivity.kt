@@ -1,4 +1,4 @@
-package com.example.webwrap
+package com.ec.eybuy
 
 import io.flutter.embedding.android.FlutterActivity
 
