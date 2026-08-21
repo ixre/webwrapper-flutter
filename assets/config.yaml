@@ -3,13 +3,13 @@
 
 app:
   # The name of your application
-  name: "WebWrap Demo"
+  name: "一元购"
 
   # The main website URL to load
-  website_url: "https://flutter.dev"
+  website_url: "https://eybuy.shop"
 
   # App description
-  description: "A Flutter app that wraps a website"
+  description: ""
 
 splash_screen:
   # Path to splash screen image (relative to assets folder)
